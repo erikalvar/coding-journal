@@ -1,0 +1,34 @@
+Coding Journal 2023
+
+Feb 1, 2023
+
+Hi, this is going to be the place where I journal my coding practice this time around.
+
+My goals:
+1. Code something every day, no matter how small
+2. Read a coding related article every day
+3. Write an entry about how the day/work went. Something like a KWL
+4. Complete a larger project every two weeks
+
+Project ideas:
+1. Tune Journal
+2. Web store (possibly for a friend's business)
+3. Simple game
+
+Languges and comfort:
+1. Ruby
+2. JS
+3. HTML
+4. CSS
+
+Frameworks and comfort:
+1. Rails
+2. React
+3. Express
+4. Vue
+
+Things I want to learn:
+1. Python
+2. Basic audio programing
+3. payment integration
+4. SEO 
