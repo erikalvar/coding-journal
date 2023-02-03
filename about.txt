@@ -14,6 +14,7 @@ Project ideas:
 1. Tune Journal
 2. Web store (possibly for a friend's business)
 3. Simple game
+4. Sheet music notation app
 
 Languges and comfort:
 1. Ruby
